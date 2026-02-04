@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá, eu sou Harrisson Mendonça Lopes
 
-<!--
-**Harrisson-Lopes/Harrisson-Lopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎧 **Suporte Técnico** em uma **Gerenciadora de Risco**  
+🚚 Atuação na área de **Logística**  
+🎂 **21 anos**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Sobre mim
+
+Atualmente trabalho como **Suporte Técnico**, auxiliando na operação e no suporte de sistemas voltados à **gestão de risco no transporte e logística**.  
+Tenho interesse em tecnologia, sistemas, infraestrutura e soluções que melhoram processos operacionais.
+
+---
+
+## 🛠️ Conhecimentos & Habilidades
+
+- Suporte técnico
+- Atendimento ao usuário
+- Sistemas de monitoramento e gestão de risco
+- Área logística
+- Resolução de problemas técnicos
+- Noções de tecnologia e sistemas
+
+---
+
+## 🚀 Em constante aprendizado
+
+Sempre buscando evoluir na área de tecnologia e adquirir novos conhecimentos para crescer profissionalmente.
+
+---
+
+📌 *Este perfil está em construção.*
